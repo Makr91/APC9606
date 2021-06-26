@@ -1,0 +1,3 @@
+[console_scripts]
+apc = apc.cli_apc:main
+

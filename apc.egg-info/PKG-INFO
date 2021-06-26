@@ -1,0 +1,15 @@
+Metadata-Version: 1.1
+Name: apc
+Version: 0.1.0
+Summary: APC Network Power Management Controller
+Home-page: https://github.com/scls19fr/APC/
+Author: Payton Quackenbush
+Author-email: UNKNOWN
+License: MIT
+Download-URL: https://github.com/scls19fr/APC/archive/master.zip
+Description: UNKNOWN
+Keywords: apc power distribution unit pdu
+Platform: UNKNOWN
+Classifier: Development Status :: 4 - Beta
+Classifier: Programming Language :: Python :: 2
+Classifier: Programming Language :: Python :: 3
